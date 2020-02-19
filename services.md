@@ -34,3 +34,4 @@ menu:
     weight: 2
 
 ---
+This is some text
