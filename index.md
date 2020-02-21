@@ -75,7 +75,7 @@ sections:
   content: |-
     Call: **641-203-9062**
 
-    Email: [hello@completeoutdoor.solutions](hello@completeoutdoor.solutions "Email us")
+    Email: [hello@completeoutdoor.solutions](mailto:hello@completeoutdoor.solutions "Email us")
 layout: landing
 menu:
   main:
