@@ -24,7 +24,7 @@ sections:
       the football games he watches his brother-in-law, Luke Ray, play. Everett has
       many years of customer service under his belt and large background in horticulture,
       thanks to his father, Brian Dittmer.
-    image: "/images/4041"
+    image: "/images/everett.png"
     actions: []
   - title: Brian Dittmer
     content: He currently lives in Ankeny, IA with his significant other, Emily. Brian
