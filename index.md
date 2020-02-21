@@ -82,9 +82,9 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: Have an outdoor problem?
-  subtitle: Find out how we can help. Get a quote today or contact us. We would love
-    to help!
+  title: Need an outdoor solution?
+  subtitle: Find out how we can help. Contact us or get a quote today. We look forward
+    to helping you!
   actions:
   - label: Get a Quote
     url: https://www.yardbook.com/new_quote/ac0e5ebab10a82086916a428017105da78dda1e8
