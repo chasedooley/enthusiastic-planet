@@ -41,10 +41,10 @@ sections:
   subtitle: We offer seven high-quality services to solve almost any outdoor need
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
+  - title: Hardscaping
     content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
       luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: images/feature1.png
+    image: "/images/1-1.jpg"
     actions: []
   - title: Awesome Feature of Your Services
     content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
