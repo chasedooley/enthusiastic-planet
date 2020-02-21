@@ -12,7 +12,7 @@ header:
     - label: Get a Quote
       url: https://www.yardbook.com/new_quote/ac0e5ebab10a82086916a428017105da78dda1e8
 footer:
-  logo_img: "/images/cos-w-3.png"
+  logo_img: ''
   tagline: Offering quality outdoor services to central Iowa
   has_nav: false
   nav_title: Company
