@@ -46,10 +46,10 @@ sections:
       luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
     image: "/images/hardscaping-1.png"
     actions: []
-  - title: Awesome Feature of Your Services
+  - title: Lighting
     content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
       sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
+    image: "/images/lighting.png"
     actions:
     - label: Learn More
       url: "/features"
