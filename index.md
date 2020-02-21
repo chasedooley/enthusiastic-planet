@@ -44,7 +44,7 @@ sections:
   - title: Hardscaping
     content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
       luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: "/images/1-1.jpg"
+    image: "/images/1-2.jpg"
     actions: []
   - title: Awesome Feature of Your Services
     content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
