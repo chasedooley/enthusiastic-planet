@@ -67,7 +67,7 @@ sections:
   - label: Get Started
     url: "/signup"
 - template: section_contact
-  bg: white
+  bg: gray
   type: section_contact
   section_id: "#contact"
   title: Get in touch with us
