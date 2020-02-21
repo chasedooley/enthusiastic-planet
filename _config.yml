@@ -9,8 +9,8 @@ header:
   has_nav: true
   menu:
     actions:
-    - label: Sign Up
-      url: "/signup"
+    - label: Get a Quote
+      url: https://www.yardbook.com/new_quote/ac0e5ebab10a82086916a428017105da78dda1e8
 footer:
   logo_img: images/logo_alt.png
   tagline: SaaS theme by Stackbit
