@@ -13,10 +13,9 @@ sections:
     url: "/features"
 - type: section_features
   template: section_features
-  section_id: features
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  section_id: services
+  title: What We Do
+  subtitle: We offer seven high-quality services to solve almost any outdoor need
   bg: gray
   featureslist:
   - title: The Best Feature of Your Services
@@ -67,12 +66,6 @@ sections:
   actions:
   - label: Get Started
     url: "/signup"
-- type: section_posts
-  template: section_posts
-  section_id: recent-posts
-  title: Latest Posts
-  bg: gray
-  subtitle: ''
 - template: section_contact
   bg: white
   type: section_contact
