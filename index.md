@@ -32,7 +32,7 @@ sections:
       a terrific grandpa. Being in the horticulture and agriculture industry for all
       of his life, Brian has a huge passion for working hard and watching his hard
       work pay off.
-    image: "/images/brian.png"
+    image: "/images/brian-1.png"
     actions: []
 - type: section_features
   template: section_features
