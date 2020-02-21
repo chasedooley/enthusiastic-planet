@@ -61,11 +61,11 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: ''
-  subtitle: This is an optional description for the call to action block.
+  title: How can we help you?
+  subtitle: ''
   actions:
-  - label: Get Started
-    url: "/signup"
+  - label: Get a Quote
+    url: https://www.yardbook.com/new_quote/ac0e5ebab10a82086916a428017105da78dda1e8
 - template: section_contact
   bg: gray
   type: section_contact
