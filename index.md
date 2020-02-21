@@ -4,13 +4,36 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: This Is A Big Hero Headline
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  title: Spring is almost here!
+  content: How can help you?
   image: images/hero.png
   actions:
   - label: Learn More
     url: "/features"
+- template: section_features
+  bg: gray
+  type: section_features
+  section_id: "#about"
+  title: Who We Are
+  subtitle: " We are a homegrown, Iowa-raised landscaping company dedicated to serving
+    our community "
+  featureslist:
+  - title: Everett Dittmer
+    content: He currently resides in Redfield, IA with his wife and daughter. He enjoys
+      the outdoors, whether it be hunting, fishing, camping, or watching sports. Particularly
+      the football games he watches his brother-in-law, Luke Ray, play. Everett has
+      many years of customer service under his belt and large background in horticulture,
+      thanks to his father, Brian Dittmer.
+    image: "/images/everett.jpg"
+    actions: []
+  - title: Brian Dittmer
+    content: He currently lives in Ankeny, IA with his significant other, Emily. Brian
+      enjoys many of the same hobbies as Everett, in addition to woodworking and being
+      a terrific grandpa. Being in the horticulture and agriculture industry for all
+      of his life, Brian has a huge passion for working hard and watching his hard
+      work pay off.
+    image: "/images/brian.png"
+    actions: []
 - type: section_features
   template: section_features
   section_id: services
@@ -65,30 +88,6 @@ sections:
   actions:
   - label: Get a Quote
     url: https://www.yardbook.com/new_quote/ac0e5ebab10a82086916a428017105da78dda1e8
-- template: section_features
-  bg: gray
-  type: section_features
-  section_id: "#about"
-  title: Who We Are
-  subtitle: " We are a homegrown, Iowa-raised landscaping company dedicated to serving
-    our community "
-  featureslist:
-  - title: Everett Dittmer
-    content: He currently resides in Redfield, IA with his wife and daughter. He enjoys
-      the outdoors, whether it be hunting, fishing, camping, or watching sports. Particularly
-      the football games he watches his brother-in-law, Luke Ray, play. Everett has
-      many years of customer service under his belt and large background in horticulture,
-      thanks to his father, Brian Dittmer.
-    image: "/images/everett.jpg"
-    actions: []
-  - title: Brian Dittmer
-    content: He currently lives in Ankeny, IA with his significant other, Emily. Brian
-      enjoys many of the same hobbies as Everett, in addition to woodworking and being
-      a terrific grandpa. Being in the horticulture and agriculture industry for all
-      of his life, Brian has a huge passion for working hard and watching his hard
-      work pay off.
-    image: "/images/brian.png"
-    actions: []
 - template: section_contact
   bg: gray
   type: section_contact
