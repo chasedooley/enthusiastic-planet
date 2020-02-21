@@ -9,8 +9,6 @@ header:
   has_nav: true
   menu:
     actions:
-    - label: Features
-      url: "#features"
     - label: Sign Up
       url: "/signup"
 footer:
