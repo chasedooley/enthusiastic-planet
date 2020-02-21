@@ -78,7 +78,7 @@ sections:
       the outdoors, whether it be hunting, fishing, camping, or watching sports. Particularly
       the football games he watches his brother-in-law, Luke Ray, play. Everett has
       many years of customer service under his belt and large background in horticulture,
-      thanks to his father, Brian Dittmer. [See Everett's website.](https://everett.pro)
+      thanks to his father, Brian Dittmer.
     image: "/images/everett.jpg"
     actions: []
   - title: Brian Dittmer
