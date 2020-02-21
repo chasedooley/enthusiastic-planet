@@ -5,7 +5,7 @@ permalink: "/:title/"
 palette: green
 header:
   title: Azimuth
-  logo_img: images/logo.png
+  logo_img: "/images/b.png"
   has_nav: true
   menu:
     actions:
