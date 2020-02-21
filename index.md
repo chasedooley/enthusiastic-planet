@@ -41,14 +41,12 @@ sections:
   template: section_reviews
   section_id: reviews
   title: Testimonials
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  subtitle: Read what good our clients are saying!
   bg: white
   reviews:
-  - author: John Doe
-    avatar: images/review1.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - author: Chase Dooley
+    avatar: ''
+    content: Fuckin' Love Ya guys!!!!111
   - author: Jane Roe
     avatar: images/review2.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
