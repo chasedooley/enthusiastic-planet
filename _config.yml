@@ -4,7 +4,7 @@ baseurl: "/"
 permalink: "/:title/"
 palette: green
 header:
-  title: Azimuth
+  title: Complete Outdoor Solutions
   logo_img: "/images/b.png"
   has_nav: true
   menu:
