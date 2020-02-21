@@ -65,6 +65,22 @@ sections:
   actions:
   - label: Get a Quote
     url: https://www.yardbook.com/new_quote/ac0e5ebab10a82086916a428017105da78dda1e8
+- template: section_features
+  bg: gray
+  type: section_features
+  section_id: "#about"
+  title: Who We Are
+  subtitle: " We are a homegrown, Iowa-raised landscaping company dedicated to serving
+    our community "
+  featureslist:
+  - title: Everett Dittmer
+    content: He currently resides in Redfield, IA with his wife and daughter. He enjoys
+      the outdoors, whether it be hunting, fishing, camping, or watching sports. Particularly
+      the football games he watches his brother-in-law, Luke Ray, play. Everett has
+      many years of customer service under his belt and large background in horticulture,
+      thanks to his father, Brian Dittmer. [See Everett's website.](https://everett.pro)
+    image: ''
+    actions: []
 - template: section_contact
   bg: gray
   type: section_contact
