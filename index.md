@@ -61,7 +61,7 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: This Is Call To Action Block!
+  title: ''
   subtitle: This is an optional description for the call to action block.
   actions:
   - label: Get Started
@@ -72,7 +72,7 @@ sections:
   section_id: "#contact"
   title: Get in touch with us
   subtitle: " For general inquiries and information, we look forward to helping you! "
-  content: 'You can call us at **641-203-9062 or** Email us: [hello@completeoutdoor.solutions](mailto:hello@completeoutdoor.solutions
+  content: 'You can call us at **641-203-9062** or Email us: [**hello@completeoutdoor.solutions**](mailto:hello@completeoutdoor.solutions
     "Email us")'
 layout: landing
 menu:
