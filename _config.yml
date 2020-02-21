@@ -12,13 +12,13 @@ header:
     - label: Get a Quote
       url: https://www.yardbook.com/new_quote/ac0e5ebab10a82086916a428017105da78dda1e8
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
-  has_nav: true
+  logo_img: "/images/b.png"
+  tagline: Offering quality outdoor services to central Iowa
+  has_nav: false
   nav_title: Company
-  has_social: true
+  has_social: false
   social_title: Community
-  has_subscribe: true
+  has_subscribe: false
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
   content: "&copy; Stackbit. All rights reserved."
