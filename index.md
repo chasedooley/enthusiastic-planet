@@ -111,6 +111,15 @@ sections:
   subtitle: We'd love to help find your outdoor solution!
   content: 'You can call us at **641-203-9062** or Email us: [**hello@completeoutdoor.solutions**](mailto:hello@completeoutdoor.solutions
     "Email us")'
+- template: section_cta
+  type: section_cta
+  section_id: "#portfolio"
+  title: Want to see more?
+  actions:
+  - label: View Our Portfolio
+    url: https://www.instagram.com/completeoutdoorsolutionsllc/
+  subtitle: Check us out on Instagram! There you'll find our portfolio with our latest
+    projects and success stories.
 layout: landing
 menu:
   main:
