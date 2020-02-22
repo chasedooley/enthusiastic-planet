@@ -41,6 +41,10 @@ sections:
   subtitle: We offer seven high-quality services to solve almost any outdoor need
   bg: gray
   featureslist:
+  - title: Snow Removal
+    content: asf
+    image: "/images/snowremoval.png"
+    actions: []
   - title: Lawn Care
     content: ssa
     image: "/images/lawncare.png"
