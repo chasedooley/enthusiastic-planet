@@ -53,7 +53,7 @@ sections:
     actions: []
 - template: section_cta
   type: section_cta
-  section_id: "#portfolio"
+  section_id: portfolio
   title: Want to see more?
   actions:
   - label: View Our Portfolio
