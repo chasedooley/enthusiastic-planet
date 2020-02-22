@@ -115,7 +115,7 @@ sections:
 - template: section_contact
   bg: gray
   type: section_contact
-  section_id: "#contact"
+  section_id: contact
   title: Get in touch with us
   subtitle: We'd love to help find your outdoor solution!
   content: 'You can call us at **641-203-9062** or Email us: [**hello@completeoutdoor.solutions**](mailto:hello@completeoutdoor.solutions
