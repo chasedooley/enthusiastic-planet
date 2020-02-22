@@ -53,13 +53,11 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Cool Feature of Your Services
+  - title: Irrigation
     content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
       venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/feature3.png
-    actions:
-    - label: Learn More
-      url: "/features"
+    image: "/images/irrigation.png"
+    actions: []
 - type: section_reviews
   template: section_reviews
   section_id: reviews
