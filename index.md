@@ -14,7 +14,7 @@ sections:
 - template: section_features
   bg: gray
   type: section_features
-  section_id: "#about"
+  section_id: about
   title: Who We Are
   subtitle: " We are a homegrown, Iowa-raised landscaping company dedicated to serving
     our community "
