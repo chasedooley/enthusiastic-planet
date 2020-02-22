@@ -10,7 +10,7 @@ sections:
   image: "/images/feature.png"
   actions:
   - label: How can we help?
-    url: "/contact"
+    url: "#contact"
 - template: section_features
   bg: gray
   type: section_features
