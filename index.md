@@ -58,6 +58,10 @@ sections:
       venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
     image: "/images/irrigation.png"
     actions: []
+  - title: Grading
+    content: blag blah
+    image: "/images/grading2.png"
+    actions: []
 - type: section_reviews
   template: section_reviews
   section_id: reviews
