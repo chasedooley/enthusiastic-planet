@@ -5,11 +5,12 @@ sections:
   template: section_hero
   section_id: hero
   title: Spring is almost here!
-  content: How can help you?
-  image: images/hero.png
+  content: Start it off with a great landscape solution. From lawn care to hardscaping,
+    we are sure to find an outdoor solution for you!
+  image: "/images/feature.png"
   actions:
-  - label: Learn More
-    url: "/features"
+  - label: How can we help?
+    url: "/contact"
 - template: section_features
   bg: gray
   type: section_features
@@ -56,7 +57,7 @@ sections:
   - title: Hardscaping
     content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
       luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: "/images/hardscaping-1.png"
+    image: "/images/hardscaping2.png"
     actions: []
   - title: Lighting
     content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
