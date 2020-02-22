@@ -49,7 +49,7 @@ sections:
   - title: Lighting
     content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
       sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: "/images/lighting.png"
+    image: "/images/lighting-1.png"
     actions:
     - label: Learn More
       url: "/features"
