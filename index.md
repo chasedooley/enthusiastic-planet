@@ -41,6 +41,10 @@ sections:
   subtitle: We offer seven high-quality services to solve almost any outdoor need
   bg: gray
   featureslist:
+  - title: Lawn Care
+    content: ssa
+    image: "/images/lawncare.png"
+    actions: []
   - title: Sodding
     content: ss
     image: "/images/sodding.png"
