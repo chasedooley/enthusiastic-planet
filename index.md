@@ -41,6 +41,10 @@ sections:
   subtitle: We offer seven high-quality services to solve almost any outdoor need
   bg: gray
   featureslist:
+  - title: Sodding
+    content: ss
+    image: "/images/sodding.png"
+    actions: []
   - title: Hardscaping
     content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
       luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
