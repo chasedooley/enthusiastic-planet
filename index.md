@@ -11,30 +11,6 @@ sections:
   actions:
   - label: How can we help?
     url: "#contact"
-- template: section_features
-  bg: gray
-  type: section_features
-  section_id: about
-  title: Who We Are
-  subtitle: " We are a homegrown, Iowa-raised landscaping company dedicated to serving
-    our community "
-  featureslist:
-  - title: Everett Dittmer
-    content: He currently resides in Redfield, IA with his wife and daughter. He enjoys
-      the outdoors, whether it be hunting, fishing, camping, or watching sports. Particularly
-      the football games he watches his brother-in-law, Luke Ray, play. Everett has
-      many years of customer service under his belt and large background in horticulture,
-      thanks to his father, Brian Dittmer.
-    image: "/images/everettd-1.png"
-    actions: []
-  - title: Brian Dittmer
-    content: He currently lives in Ankeny, IA with his significant other, Emily. Brian
-      enjoys many of the same hobbies as Everett, in addition to woodworking and being
-      a terrific grandpa. Being in the horticulture and agriculture industry for all
-      of his life, Brian has a huge passion for working hard and watching his hard
-      work pay off.
-    image: "/images/brian-1.png"
-    actions: []
 - type: section_features
   template: section_features
   section_id: services
@@ -75,6 +51,39 @@ sections:
     content: blag blah
     image: "/images/grading2.png"
     actions: []
+- template: section_cta
+  type: section_cta
+  section_id: "#portfolio"
+  title: Want to see more?
+  actions:
+  - label: View Our Portfolio
+    url: https://www.instagram.com/completeoutdoorsolutionsllc/
+  subtitle: Check us out on Instagram! There you'll find our portfolio with our latest
+    projects and success stories.
+- template: section_features
+  bg: gray
+  type: section_features
+  section_id: about
+  title: Who We Are
+  subtitle: " We are a homegrown, Iowa-raised landscaping company dedicated to serving
+    our community "
+  featureslist:
+  - title: Everett Dittmer
+    content: He currently resides in Redfield, IA with his wife and daughter. He enjoys
+      the outdoors, whether it be hunting, fishing, camping, or watching sports. Particularly
+      the football games he watches his brother-in-law, Luke Ray, play. Everett has
+      many years of customer service under his belt and large background in horticulture,
+      thanks to his father, Brian Dittmer.
+    image: "/images/everettd-1.png"
+    actions: []
+  - title: Brian Dittmer
+    content: He currently lives in Ankeny, IA with his significant other, Emily. Brian
+      enjoys many of the same hobbies as Everett, in addition to woodworking and being
+      a terrific grandpa. Being in the horticulture and agriculture industry for all
+      of his life, Brian has a huge passion for working hard and watching his hard
+      work pay off.
+    image: "/images/brian-1.png"
+    actions: []
 - type: section_reviews
   template: section_reviews
   section_id: reviews
@@ -111,15 +120,6 @@ sections:
   subtitle: We'd love to help find your outdoor solution!
   content: 'You can call us at **641-203-9062** or Email us: [**hello@completeoutdoor.solutions**](mailto:hello@completeoutdoor.solutions
     "Email us")'
-- template: section_cta
-  type: section_cta
-  section_id: "#portfolio"
-  title: Want to see more?
-  actions:
-  - label: View Our Portfolio
-    url: https://www.instagram.com/completeoutdoorsolutionsllc/
-  subtitle: Check us out on Instagram! There you'll find our portfolio with our latest
-    projects and success stories.
 layout: landing
 menu:
   main:
