@@ -20,7 +20,7 @@ sections:
   featureslist:
   - title: Snow Removal
     content: asf
-    image: "/images/snowremoval.png"
+    image: "/images/snowremoval2.png"
     actions: []
   - title: Lawn Care
     content: ssa
