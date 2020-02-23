@@ -24,7 +24,7 @@ sections:
     actions: []
   - title: Lawn Care
     content: ssa
-    image: "/images/lawncare.png"
+    image: "/images/sodding-1.png"
     actions: []
   - title: Sodding
     content: ss
