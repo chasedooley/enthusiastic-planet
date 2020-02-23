@@ -5,14 +5,14 @@ permalink: "/:title/"
 palette: green
 header:
   title: Complete Outdoor Solutions
-  logo_img: "/images/b.png"
+  logo_img: "/images/cos-logo-long.png"
   has_nav: true
   menu:
     actions:
     - label: Get a Quote
       url: https://www.yardbook.com/new_quote/ac0e5ebab10a82086916a428017105da78dda1e8
 footer:
-  logo_img: "/images/b.png"
+  logo_img: "/images/cos-logo-long-1.png"
   tagline: Offering quality outdoor services to central Iowa
   has_nav: false
   nav_title: Company
