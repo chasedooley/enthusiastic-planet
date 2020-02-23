@@ -18,13 +18,18 @@ sections:
   subtitle: We offer seven high-quality services to solve almost any outdoor need
   bg: gray
   featureslist:
-  - title: Snow Removal
-    content: asf
-    image: "/images/snowremoval2.png"
-    actions: []
   - title: Lawn Care
     content: ssa
     image: "/images/sodding-1.png"
+    actions: []
+  - title: Grading
+    content: blag blah
+    image: "/images/grading3.png"
+    actions: []
+  - title: Irrigation
+    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
+      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+    image: "/images/irrigation.png"
     actions: []
   - title: Sodding
     content: ss
@@ -42,14 +47,9 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Irrigation
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: "/images/irrigation.png"
-    actions: []
-  - title: Grading
-    content: blag blah
-    image: "/images/grading3.png"
+  - title: Snow Removal
+    content: asf
+    image: "/images/snowremoval2.png"
     actions: []
 - template: section_cta
   type: section_cta
