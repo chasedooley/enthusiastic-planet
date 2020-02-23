@@ -17,7 +17,7 @@
   display: -webkit-flex;
   display: flex;
   
-  @media (mix-width: 600px){
+  @media (max-width: 600px){
     flex-direction: column;
   }
 }
