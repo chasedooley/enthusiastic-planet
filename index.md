@@ -49,7 +49,7 @@ sections:
     actions: []
   - title: Grading
     content: blag blah
-    image: "/images/grading2.png"
+    image: "/images/grading3.png"
     actions: []
 - template: section_cta
   type: section_cta
