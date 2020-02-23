@@ -7,7 +7,7 @@ sections:
   title: Spring is almost here!
   content: Start it off with a great landscape solution. From lawn care to hardscaping,
     we are sure to find an outdoor solution for you!
-  image: "/images/feature.png"
+  image: "/images/featureFeb2020.png"
   actions:
   - label: How can we help?
     url: "#contact"
