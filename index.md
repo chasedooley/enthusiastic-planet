@@ -6,7 +6,7 @@ sections:
   section_id: hero
   title: Spring is almost here!
   content: Start it off with a great landscape solution. From lawn care to hardscaping,
-    we are sure to find an outdoor solution for you!
+    we are sure to find a solution to fit your home or business!
   image: "/images/featureFeb2020.png"
   actions:
   - label: How can we help?
