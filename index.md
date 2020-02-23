@@ -28,7 +28,7 @@ sections:
     actions: []
   - title: Sodding
     content: ss
-    image: "/images/sodding.png"
+    image: "/images/sodding2.png"
     actions: []
   - title: Hardscaping
     content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
