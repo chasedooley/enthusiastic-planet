@@ -16,6 +16,11 @@
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
+  
+  @media (mix-width: 600px){
+    display: block;
+    margn-top: 1rem;
+  }
 }
 
 .site-branding {
