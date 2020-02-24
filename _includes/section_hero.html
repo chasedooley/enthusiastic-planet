@@ -4,7 +4,7 @@
       {% assign image_is_not_empty = include.section.image | is_not_empty %}
       {% if image_is_not_empty %}
       <div class="cell block-preview">
-        <img src="{{ include.section.image | relative_url }}" alt="{{ include.section.title }}" />
+        <img data-piio="{{ include.section.image | relative_url }}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8+f9vPQAJZAN2rlRQVAAAAABJRU5ErkJggg==" alt="{{ include.section.title }}" />
       </div>
       {% endif %}
       <div class="cell block-content">
