@@ -34,7 +34,7 @@ sections:
     image: "/images/irrigation.png"
     actions: []
   - title: Sodding
-    content: ss
+    content: Get instant satisfaction with lush, green grass!
     image: "/images/sodding2.png"
     actions: []
   - title: Hardscaping
