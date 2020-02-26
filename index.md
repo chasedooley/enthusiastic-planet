@@ -44,7 +44,8 @@ sections:
     image: "/images/sodding2.png"
     actions: []
   - title: Lighting
-    content: ''
+    content: Need something to shine at night? We can help! Needing to get your holiday
+      lights up? We can help with that as well!
     image: "/images/lighting-1.png"
     actions:
     - label: Learn More
