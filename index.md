@@ -97,11 +97,11 @@ sections:
   - author: Chase
     avatar: ''
     content: Complete Outdoor Solutions has been a pleasure to work with!
-  - author: ''
+  - author: Nicole
     avatar: ''
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+    content: I hired Complete Outdoor Solutions for a landscaping project last fall.
+      They really listened to the suggestions I had, and brought my vision to life.
+      I was impressed by their attention to detail and dedication to quality work.
   - author: Richard Roe
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
