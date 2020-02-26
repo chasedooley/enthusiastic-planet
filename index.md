@@ -96,7 +96,7 @@ sections:
   reviews:
   - author: Chase Dooley
     avatar: ''
-    content: Fuckin' Love Ya guys!!!!111
+    content: Complete Outdoor Solutions has been a pleasure to work with!
   - author: Jane Roe
     avatar: images/review2.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
