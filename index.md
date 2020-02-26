@@ -102,10 +102,13 @@ sections:
     content: I hired Complete Outdoor Solutions for a landscaping project last fall.
       They really listened to the suggestions I had, and brought my vision to life.
       I was impressed by their attention to detail and dedication to quality work.
-  - author: Richard Roe
-    avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
+  - author: Deb
+    avatar: ''
+    content: We had Complete Outdoor Solutions landscape our backyard plus put up
+      vinyl fencing. They pulled weeds in our flower garden and raked leaves. We had
+      some rails on our front porch that were rotten, and they replaced those too.
+      This father and son team went beyond our expectations. If you want a job done
+      right, I recommend Complete Outdoor Solutions!
 - type: section_cta
   template: section_cta
   section_id: call-to-action
