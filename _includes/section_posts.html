@@ -22,7 +22,7 @@
           {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
           {% if thumb_img_path_is_not_empty %}
           <a class="post-card-thumbnail" href="{{ post.url | relative_url }}">
-            <img class="thumbnail" src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.title }}" />
+            <img class="thumbnail" data-piio="{{ post.thumb_img_path | relative_url }}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8+f9vPQAJZAN2rlRQVAAAAABJRU5ErkJggg==" alt="{{ post.title }}" />
           </a>
           {% endif %}
           <div class="post-card-content">
