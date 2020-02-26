@@ -30,5 +30,4 @@ fields:
   config:
     required: true
 pages:
-- contact.md
 - index.md
