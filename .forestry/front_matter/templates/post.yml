@@ -37,4 +37,5 @@ fields:
   config:
     required: true
 pages:
+- _posts/how-to-landscape-101.md
 - _posts/tool-opiate.md
