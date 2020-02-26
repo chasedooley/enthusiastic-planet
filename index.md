@@ -126,6 +126,12 @@ sections:
   subtitle: We'd love to help find your outdoor solution!
   content: 'You can call us at **641-203-9062** or Email us: [**hello@completeoutdoor.solutions**](mailto:hello@completeoutdoor.solutions
     "Email us")'
+- template: section_posts
+  bg: gray
+  type: section_posts
+  section_id: blog
+  title: Read Our Blog
+  subtitle: This is our blog
 layout: landing
 menu:
   main:
