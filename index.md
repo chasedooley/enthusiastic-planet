@@ -94,11 +94,11 @@ sections:
   subtitle: Read what good our clients are saying!
   bg: white
   reviews:
-  - author: Chase Dooley
+  - author: Chase
     avatar: ''
     content: Complete Outdoor Solutions has been a pleasure to work with!
-  - author: Jane Roe
-    avatar: images/review2.jpg
+  - author: ''
+    avatar: ''
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
       interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
       vel posuere justo laoreet.
