@@ -24,25 +24,6 @@ sections:
       you'll love.
     image: "/images/hardscaping2.png"
     actions: []
-  - title: Lawn Care
-    content: Keep your lawn healthy and maintained. From mowing, trimming, aerating,
-      and fertilizing, we've got you covered!
-    image: "/images/lawncare2.png"
-    actions: []
-  - title: Grading
-    content: From rough-to-finished grade to new development, or if you have a preexisting
-      drainage issue, we can find a solution for you!
-    image: "/images/grading3.png"
-    actions: []
-  - title: Irrigation
-    content: We offer many solutions in our irrigation service - from design and install
-      to maintenance.
-    image: "/images/irrigation.png"
-    actions: []
-  - title: Sodding
-    content: Get instant satisfaction with lush, green grass!
-    image: "/images/sodding2.png"
-    actions: []
   - title: Lighting
     content: Need something to shine at night? We can help! Needing to get your holiday
       lights up? We can help with that as well!
@@ -50,6 +31,25 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
+  - title: Grading
+    content: From rough-to-finished grade to new development, or if you have a preexisting
+      drainage issue, we can find a solution for you!
+    image: "/images/grading3.png"
+    actions: []
+  - title: Sodding
+    content: Get instant satisfaction with lush, green grass!
+    image: "/images/sodding2.png"
+    actions: []
+  - title: Irrigation
+    content: We offer many solutions in our irrigation service - from design and install
+      to maintenance.
+    image: "/images/irrigation.png"
+    actions: []
+  - title: Lawn Care
+    content: Keep your lawn healthy and maintained. From mowing, trimming, aerating,
+      and fertilizing, we've got you covered!
+    image: "/images/lawncare2.png"
+    actions: []
   - title: Snow Removal
     content: 'We offer residential and commercial snow and ice removal. Keep yourself
       out of the elements: hire the professionals to do it!'
