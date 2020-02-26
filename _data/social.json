@@ -1,19 +1,14 @@
 {
   "links": [
     {
-      "type": "twitter",
-      "title": "Twitter",
-      "url": "https://twitter.com/"
-    },
-    {
       "type": "instagram",
       "title": "Instagram",
       "url": "https://www.instagram.com/completeoutdoorsolutionsllc/"
     },
     {
       "type": "linkedin",
-      "title": "LinkedIn",
-      "url": "https://www.linkedin.com/"
+      "title": "Facebook",
+      "url": "https://www.facebook.com/completeoutdoorsolutions/"
     }
   ]
 }
