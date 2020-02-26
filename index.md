@@ -21,7 +21,7 @@ sections:
   - title: Lawn Care
     content: Keep your lawn healthy and maintained. From mowing, trimming, aerating,
       and fertilizing, we've got you cover!
-    image: "/images/sodding-1.png"
+    image: "/images/lawncare2.png"
     actions: []
   - title: Grading
     content: blag blah
