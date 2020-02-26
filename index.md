@@ -24,8 +24,8 @@ sections:
     image: "/images/lawncare2.png"
     actions: []
   - title: Grading
-    content: From rough-to-finished grade, new development, preexisting drainage issue,
-      we can find a solution for you!
+    content: From rough-to-finished grade to new development, or if you have a preexisting
+      drainage issue, we can find a solution for you!
     image: "/images/grading3.png"
     actions: []
   - title: Irrigation
