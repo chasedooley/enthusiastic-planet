@@ -23,6 +23,9 @@ footer:
   subscribe_content: Stay up to date with our latest developments.
   content: "&copy; Complete Outdoor Solutions 2020. All rights reserved."
   links:
+  - text: Admin
+    url: https://completeoutdoorsolutions.netlify.com/admin
+    new_window: true
   - text: Made with Stackbit
     url: https://www.stackbit.com
     new_window: true
