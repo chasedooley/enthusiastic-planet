@@ -29,7 +29,8 @@ sections:
     image: "/images/grading3.png"
     actions: []
   - title: Irrigation
-    content: ''
+    content: We offer many solutions in our irrigation service - from design and install
+      to maintenance.
     image: "/images/irrigation.png"
     actions: []
   - title: Sodding
