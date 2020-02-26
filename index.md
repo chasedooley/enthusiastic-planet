@@ -91,7 +91,7 @@ sections:
   template: section_reviews
   section_id: reviews
   title: Testimonials
-  subtitle: Read what good our clients are saying!
+  subtitle: Read the good things our clients are saying!
   bg: white
   reviews:
   - author: Chase
