@@ -18,6 +18,12 @@ sections:
   subtitle: We offer seven high-quality services to solve almost any outdoor need
   bg: gray
   featureslist:
+  - title: Hardscaping
+    content: From patios, walkways, driveways, islands, retaining walls, and much
+      more! Drive up the value of your property while creating an outdoor space that
+      you'll love.
+    image: "/images/hardscaping2.png"
+    actions: []
   - title: Lawn Care
     content: Keep your lawn healthy and maintained. From mowing, trimming, aerating,
       and fertilizing, we've got you covered!
@@ -37,14 +43,8 @@ sections:
     content: Get instant satisfaction with lush, green grass!
     image: "/images/sodding2.png"
     actions: []
-  - title: Hardscaping
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: "/images/hardscaping2.png"
-    actions: []
   - title: Lighting
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+    content: ''
     image: "/images/lighting-1.png"
     actions:
     - label: Learn More
