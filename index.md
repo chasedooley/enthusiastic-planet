@@ -51,7 +51,8 @@ sections:
     - label: Learn More
       url: "/features"
   - title: Snow Removal
-    content: asf
+    content: 'We offer residential and commercial snow and ice removal. Keep yourself
+      out of the elements: hire the professionals to do it!'
     image: "/images/snowremoval2.png"
     actions: []
 - template: section_cta
