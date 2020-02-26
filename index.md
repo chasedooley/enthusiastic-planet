@@ -20,7 +20,7 @@ sections:
   featureslist:
   - title: Lawn Care
     content: Keep your lawn healthy and maintained. From mowing, trimming, aerating,
-      and fertilizing, we've got you cover!
+      and fertilizing, we've got you covered!
     image: "/images/lawncare2.png"
     actions: []
   - title: Grading
@@ -29,8 +29,7 @@ sections:
     image: "/images/grading3.png"
     actions: []
   - title: Irrigation
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+    content: ''
     image: "/images/irrigation.png"
     actions: []
   - title: Sodding
