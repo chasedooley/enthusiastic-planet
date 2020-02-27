@@ -1,0 +1,21 @@
+---
+layout: post
+title: Why hire the pros?
+subtitle: Landscaping can look simple on the outside... but there is more to it than
+  what meets the eye.
+date: 2020-02-25T06:00:00.000+00:00
+thumb_img_path: "/images/Complete Outdoor Solutions Logo No BG.png"
+img_path: "/images/terry-mccombs-DVMx32ZEr5o-unsplash.jpg"
+excerpt: Landscaping can look simple on the outside... but there is more to it than
+  what meets the eye.
+
+---
+Too often, we pull into a customer's driveway to fix an issue that shouldn't even exist. These issues range from simple to complex, small to large, and low to high cost repairs. It may be something as simple as weeds growing through the recently installed rock bed... or as complex as a retaining wall blowing out. Regardless of the situation, it's quite unfortunate. 
+
+Typically, we see landscaping related fails due to either a homeowner getting in over their heads on a project, or a "professional" cutting corners and costs to pocket more money. Both of these situations can be easily avoided with some research and proper planning.
+
+To start off, I think it's important that I mention that in no way am I discouraging you from tackling your home landscaping projects. In fact, I think it's great exercise and a great stress reliever. There's a reason or two as to why I do it for a living! HOWEVER, please do your research before you start a project. Even simple mulch jobs require some knowledge and procedures to ensure that you extend the life and effectiveness of said mulch. Your research and planning becomes especially important if you decide to take on a more complex project like a retaining wall or a patio. These types of projects done incorrectly can mean failure before the project is even finished. Worse yet, these failures tend to be expensive to fix! If you have experience with construction and/or dirt work, and it's a smaller sized project, it's probably something you can handle. Call your local suppliers or even call a local landscaper. Chances are they'll be willing to give you tips and tricks that are critical to building a project that will last. 
+
+For our next scenario, lets say you did your research and decided that this project is either too intimidating, too labor intensive, or you simply don't have the tools to take it on. There is absolutely no shame in any of these things. That's why the professionals exist! Just make sure that the professional you hire is truly a pro! The first thing to look at is how much experience a company has in projects related to yours. Do they showcase their work? Are you able to find reviews on the company? Next, you'll want to ask exactly what work, in detail, is included in the bid that they give you. "Patio" with a price slapped on a bid sheet is not nearly enough information. Make sure the company goes over what materials they will be using, what kinds of machines they will be bringing to the site, how long they think it will take, warranties, and things of the sort. Make sure you think outside of the box on this. For example, depending on what machines they use and where at, they may tear up some of your grass... Did they include reseeding or sod in the estimate? Or will you get stuck with bare dirt until you pay an unexpected expense to fix their mess?   Lastly, if you feel comfortable with the company and the scope of work, take a look at their pricing compared to another company in the area. If theirs comes in cheaper, are they promising the same quality of work and warranty? That can go both ways too. If company A is significantly more expensive, are they simply ripping you off? Or do they have a genuine explanation as to why their bid may be higher? It's okay to have that conversation with that company's rep. In fact, if they are reputable, they will appreciate you asking questions. 
+
+Regardless of which route you decide to take to get the outdoor space of your dreams, there is a correct way to go about it. Follow these quick guidelines and continue reading more literature to make sure that your hard earned money is spent on something that will last a lifetime.
