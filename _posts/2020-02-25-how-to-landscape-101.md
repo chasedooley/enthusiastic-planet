@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why hire the pros?
+title: Should I Hire a Professional?
 subtitle: Landscaping can look simple on the outside... but there is more to it than
   what meets the eye.
 date: 2020-02-25T06:00:00.000+00:00
