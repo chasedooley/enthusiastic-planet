@@ -94,6 +94,13 @@ sections:
   subtitle: Read the good things our clients are saying!
   bg: white
   reviews:
+  - author: Walt
+    avatar: ''
+    content: Complete Outdoor Solutions did a tremendous job on our landscaping job.
+      The team worked through inclement weather and completed the job even earlier
+      than they promised. I would, and have recommended Complete Outdoor Solutions
+      to many of my friends and family. They do great work and I will continue to
+      use them for all of my landscaping needs.
   - author: Chase
     avatar: ''
     content: Complete Outdoor Solutions has been a pleasure to work with!
