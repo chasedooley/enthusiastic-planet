@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should I hire a Professional?
+title: Should I Hire a Professional?
 subtitle: 'Landscaping can look simple on the outside, but there is more to it than
   what''s expected. '
 date: 2020-02-27 15:00:00 +0000
